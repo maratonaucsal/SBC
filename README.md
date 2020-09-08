@@ -47,7 +47,7 @@
   - [ ]  [2876](https://www.urionlinejudge.com.br/judge/pt/problems/view/2876) - Aventurando-se no Slackline
   - [ ]  [2877](https://www.urionlinejudge.com.br/judge/pt/problems/view/2877) - Bolinhas de Gude 
   - [ ]  [2878](https://www.urionlinejudge.com.br/judge/pt/problems/view/2878) - Cortador de Pizza 
-  - [x]  [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - Desvendando Monty Hall[C++](https://github.com/maratonaucsal/SBC/blob/master/C%2B%2B/2018%20-%201%C2%AA%20Fase/DesvendandoMontyHall.cpp)
+  - [x]  [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - Desvendando Monty Hall [C++](https://github.com/maratonaucsal/SBC/blob/master/C%2B%2B/2018%20-%201%C2%AA%20Fase/DesvendandoMontyHall.cpp) [Java] (https://github.com/maratonaucsal/SBC/blob/master/Java/2018%20-%201%C2%AA%20Fase/DesvendandoMontyHall.java)
   - [ ]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - Enigma
   - [ ]  [2881](https://www.urionlinejudge.com.br/judge/pt/problems/view/2881) - Festival 
   - [ ]  [2882](https://www.urionlinejudge.com.br/judge/pt/problems/view/2882) - Gasolina 
