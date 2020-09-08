@@ -119,8 +119,8 @@
 ### 1ª Fase
 
   - [ ]  [2233](https://www.urionlinejudge.com.br/judge/pt/problems/view/2233) - Etiquetas Coloridas | [C++]() | [Java]() | [Python]()
-  - [x]  [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes | [C++]() | [Java]() | [Python]()
-  - [ ]  [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - Andando no Tempo | [C++]() | [Java]() | [Python](https://github.com/maratonaucsal/SBC/blob/master/Python/2016%20-%201%C2%AA%20Fase/CachorrosQuentes.py)
+  - [x]  [2234](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes | [C++]() | [Java]() | [Python](https://github.com/maratonaucsal/SBC/blob/master/Python/2016%20-%201%C2%AA%20Fase/CachorrosQuentes.py)
+  - [ ]  [2235](https://www.urionlinejudge.com.br/judge/pt/problems/view/2235) - Andando no Tempo | [C++]() | [Java]() | [Python]()
   - [ ]  [2236](https://www.urionlinejudge.com.br/judge/pt/problems/view/2236) - Batata Quente | [C++]() | [Java]() | [Python]()
   - [ ]  [2237](https://www.urionlinejudge.com.br/judge/pt/problems/view/2237) - Containers | [C++]() | [Java]() | [Python]()
   - [ ]  [2238](https://www.urionlinejudge.com.br/judge/pt/problems/view/2238) - Divisores | [C++]() | [Java]() | [Python]()
