@@ -156,7 +156,7 @@
 
   - [ ]  [1931](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931) - Mania de Par | [C++]() | [Java]() | [Python]()
   - [ ]  [1932](https://www.urionlinejudge.com.br/judge/pt/problems/view/1932) - Bolsa de Valores | [C++]() | [Java]() | [Python]()
-  - [ ]  [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - Tri-du | [C++]() | [Java]() | [Python]()
+  - [x]  [1933](https://www.urionlinejudge.com.br/judge/pt/problems/view/1933) - Tri-du | [C++](https://github.com/maratonaucsal/SBC/blob/master/C%2B%2B/2015%20-%201%C2%AA%20Fase/Tri-Du.cpp) | [Java](https://github.com/maratonaucsal/SBC/blob/master/Java/2015%20-%201%C2%AA%20Fase/TridDu.java) | [Python]()
   - [ ]  [1934](https://www.urionlinejudge.com.br/judge/pt/problems/view/1934) - Quebra-cabeça | [C++]() | [Java]() | [Python]()
   - [ ]  [1935](https://www.urionlinejudge.com.br/judge/pt/problems/view/1935) - Espiral | [C++]() | [Java]() | [Python]()
   - [ ]  [1936](https://www.urionlinejudge.com.br/judge/pt/problems/view/1936) - Fatorial | [C++]() | [Java]() | [Python]()
