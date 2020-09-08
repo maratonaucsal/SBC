@@ -87,14 +87,14 @@
   - [ ]  [2660](https://www.urionlinejudge.com.br/judge/pt/problems/view/2660) - Cigarras Periódicas | [C++]() | [Java]() | [Python]()
   - [ ]  [2661](https://www.urionlinejudge.com.br/judge/pt/problems/view/2661) - Despojados | [C++]() | [Java]() | [Python]()
   - [ ]  [2662](https://www.urionlinejudge.com.br/judge/pt/problems/view/2662) - Escala Musical | [C++]() | [Java]() | [Python]()
-  - [ ]  [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - Fase | [C++](https://github.com/maratonaucsal/SBC/blob/master/C%2B%2B/2017%20-%201%C2%AA%20Fase/Fase.cpp) | [Java]() | [Python]()
+  - [x]  [2663](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663) - Fase | [C++](https://github.com/maratonaucsal/SBC/blob/master/C%2B%2B/2017%20-%201%C2%AA%20Fase/Fase.cpp) | [Java]() | [Python]()
   - [ ]  [2664](https://www.urionlinejudge.com.br/judge/pt/problems/view/2664) - Ginástica | [C++]() | [Java]() | [Python]()
   - [ ]  [2665](https://www.urionlinejudge.com.br/judge/pt/problems/view/2665) - Hipercampo | [C++]() | [Java]() | [Python]()
   - [ ]  [2666](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666) - Imposto Real | [C++]() | [Java]() | [Python]()
   - [ ]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - Jogo de Boca | [C++]() | [Java]() | [Python]()
   - [ ]  [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo | [C++]() | [Java]() | [Python]()
   - [ ]  [2669](https://www.urionlinejudge.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia | [C++]() | [Java]() | [Python]()
-  - [x]  [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - Máquina de Café | [C++]() | [Java]() | [Python]()
+  - [ ]  [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - Máquina de Café | [C++]() | [Java]() | [Python]()
 
 
 ### 2ª Fase
