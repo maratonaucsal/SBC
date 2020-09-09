@@ -1,5 +1,3 @@
-package sbc.facil;
-
 import java.util.Scanner;
 
 public class BoboDaCorte {
