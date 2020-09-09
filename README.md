@@ -91,7 +91,7 @@
   - [ ]  [2664](https://www.urionlinejudge.com.br/judge/pt/problems/view/2664) - Ginástica | [C++]() | [Java]() | [Python]()
   - [ ]  [2665](https://www.urionlinejudge.com.br/judge/pt/problems/view/2665) - Hipercampo | [C++]() | [Java]() | [Python]()
   - [ ]  [2666](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666) - Imposto Real | [C++]() | [Java]() | [Python]()
-  - [ ]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - Jogo de Boca | [C++]() | [Java]() | [Python]()
+  - [x]  [2667](https://www.urionlinejudge.com.br/judge/pt/problems/view/2667) - Jogo de Boca | [C++](https://github.com/maratonaucsal/SBC/blob/master/C%2B%2B/2017%20-%201%C2%AA%20Fase/JogoDaBoca.cpp) | [Java](https://github.com/maratonaucsal/SBC/blob/master/Java/2017%20-%201%C2%AA%20Fase/JogoDaBoca.java) | [Python](https://github.com/maratonaucsal/SBC/blob/master/Python/2017%20-%201%C2%AA%20Fase/JogoDaBoca.py)
   - [ ]  [2668](https://www.urionlinejudge.com.br/judge/pt/problems/view/2668) - K-ésimo | [C++]() | [Java]() | [Python]()
   - [ ]  [2669](https://www.urionlinejudge.com.br/judge/pt/problems/view/2669) - Laboratório de Biotecnologia | [C++]() | [Java]() | [Python]()
   - [ ]  [2670](https://www.urionlinejudge.com.br/judge/pt/problems/view/2670) - Máquina de Café | [C++]() | [Java]() | [Python]()
