@@ -48,7 +48,7 @@
   - [ ]  [2877](https://www.urionlinejudge.com.br/judge/pt/problems/view/2877) - Bolinhas de Gude | [C++]() | [Java]() | [Python]()
   - [ ]  [2878](https://www.urionlinejudge.com.br/judge/pt/problems/view/2878) - Cortador de Pizza | [C++]() | [Java]() | [Python]()
   - [x]  [2879](https://www.urionlinejudge.com.br/judge/pt/problems/view/2879) - Desvendando Monty Hall | [C++](https://github.com/maratonaucsal/SBC/blob/master/C%2B%2B/2018%20-%201%C2%AA%20Fase/DesvendandoMontyHall.cpp) | [Java](https://github.com/maratonaucsal/SBC/blob/master/Java/2018%20-%201%C2%AA%20Fase/DesvendandoMontyHall.java) | [Python]()
-  - [x]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - Enigma | [C++]() | [Java](https://github.com/maratonaucsal/SBC/blob/master/Java/2018%20-%201%C2%AA%20Fase/Enigma.java) | [Python]()
+  - [x]  [2880](https://www.urionlinejudge.com.br/judge/pt/problems/view/2880) - Enigma | [C++](https://github.com/maratonaucsal/SBC/blob/master/C%2B%2B/2018%20-%201%C2%AA%20Fase/Enigma.cpp) | [Java](https://github.com/maratonaucsal/SBC/blob/master/Java/2018%20-%201%C2%AA%20Fase/Enigma.java) | [Python]()
   - [ ]  [2881](https://www.urionlinejudge.com.br/judge/pt/problems/view/2881) - Festival  | [C++]() | [Java]() | [Python]()
   - [ ]  [2882](https://www.urionlinejudge.com.br/judge/pt/problems/view/2882) - Gasolina | [C++]() | [Java]() | [Python]()
   - [ ]  [2883](https://www.urionlinejudge.com.br/judge/pt/problems/view/2883) - Hipótese Policial | [C++]() | [Java]() | [Python]()
